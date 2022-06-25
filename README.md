@@ -1,4 +1,6 @@
-# Remotive Jobs App
+# Remotive Jobs Web App
+
+**Remotive Handpicks Remote Jobs.**
 
 ## Available Scripts
 
